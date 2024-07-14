@@ -1,0 +1,7 @@
+multivariate_linearregression
+includes homepricing prediction by using multiple variables
+includes salary prediction when hiring using mutiple variables
+
+summary :
+> data should be large
+> id data is not large then chances of error are really great as the model is poorly trained for the outlier data
